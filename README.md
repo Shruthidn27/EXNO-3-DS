@@ -192,12 +192,16 @@ dt
  sm.qqplot(dt['Age'],line='45') 
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/f5837b19-6ccc-4f93-bd60-2c5ee6dd5637)
+
 ```
  sm.qqplot(df["Highly Negative Skew_1"],line='45')
  plt.show()
 ```
+![image](https://github.com/user-attachments/assets/bd65355f-52c3-42e3-aa3b-e2c5c75158ce)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+ Thus the given data, Feature Encoding, Transformation process and save the data to a file
+ was performed successfully.
 
        
